@@ -1,0 +1,23 @@
+body{
+    background-color: antiquewhite;
+}
+#one{
+    float: right;
+}
+#one,#two,#three,#four,#five,#six{
+    width: 30%;
+}
+#six{
+    float: right;
+    margin-top: 5%;
+}
+#four{
+    margin-top: 5%;
+}
+#three,#five{
+    margin-left: 5%;
+}
+#five{
+    margin-left: 5%;
+    margin-top: 5%;
+}

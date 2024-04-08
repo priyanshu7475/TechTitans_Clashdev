@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255), 255);
+ }
+ #about{
+     background-color:rgb(200,86, 109);
+     color: rgb(255, 255, 255);
+     border: 20px normal rebeccapurple;
+     font-size: 50px;
+     text-align: center ; 
+ }
+ 
+ .para1{
+     color: rgb(0, 0, 0);
+     text-align: center;
+     font-size: 18px;
+ }
+ .img{
+     float: right;
+     nav-left:15%;
+ }
+ .all{
+     position: absolute;
+     width: 80%;
+     right: 10%;
+     top: 20%;
+     left: 10%;
+ }
